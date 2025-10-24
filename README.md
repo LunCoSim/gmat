@@ -4,7 +4,7 @@ Integration with GMAT (general mission analysis toolkit)
 ## Used SW
 
 1. [GMAT](https://sourceforge.net/p/gmat/git/ci/GMAT-R2025a/tree/)
-2. [iVoyager)(https://github.com/ivoyager) for visualization
+2. [iVoyager](https://github.com/ivoyager) for visualization
 3. [Godot Engine v4.6](https://godotengine.org/article/dev-snapshot-godot-4-6-dev-2/)
 
 
